@@ -1,0 +1,10 @@
+[package]
+
+name = "vm_install"
+version = "0.0.0"
+authors = ["Lars Holznagel <lars.holznagel@outlook.com>"]
+publish = false
+
+[dependencies]
+rocket = "0.2.0"
+rocket_codegen = "0.2.0"
